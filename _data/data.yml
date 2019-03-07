@@ -38,10 +38,7 @@ sidebar:
         level: Beginer
       
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
+      - item: Driving
         link:
 
       - item: Cooking
@@ -50,36 +47,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.Second paragraph if required.
+	A dynamic professional with 10 years of working experience in Software Development and implementation.
+	Functional Knowledge Retail Banking and Investment Banking(Finance). 
+	Love to code and break things. Work with cloud and big data tools.
+	Follow Agile and works in Dev Ops model with CI/CD and TDD development.
+	Knowledge of :
+ 	Cloud Technologies : Amazon AWS, Google Cloud, Cloud Foundry
+ 	BigData Technology : Hadoop, Spark, Apache Beam
+ 	Machine Learning using Tensforflow and Keras
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: MSc in BigData
+      university: Hong Kong University of Science & Technology
+      time: 2018 - 2020
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: B.Tech in Electronics and Telecommunication
+      university: BPUT
+      time: 2004 - 2008
 
