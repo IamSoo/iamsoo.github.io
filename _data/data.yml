@@ -13,39 +13,4 @@ sidebar:
       university: BPUT
   email: princesoonam@yahoo.co.in
   github: IamSoo
-  interests:
-    -
-      item: Driving
-      link: ~
-    -
-      item: Cooking
-      link: ~
-  languages:
-    -
-      idiom: Hindi
-      level: Native
-    -
-      idiom: Oriya
-      level: Native
-    -
-      idiom: English
-      level: Professional
-    -
-      idiom: Chinese
-      level: Beginer
-  linkedin: "https://www.linkedin.com/in/soonam-kalyan-panda/"
-  name: "Soonam Kalyan Panda"
-  phone: 8615014043601
-  summary: |
-      A dynamic professional with 10 years of working experience in Software Development and implementation.
-      Functional Knowledge Retail Banking and Investment Banking(Finance).
-      Love to code and break things. Work with cloud and big data tools.
-      Follow Agile and works in Dev Ops model with CI/CD and TDD development.
-      Knowledge of :
-      Cloud Technologies: Amazon AWS, Google Cloud, Cloud Foundry
-      BigData Technology: Hadoop, Spark, Apache Beam
-      Career ProfileMachine Learning using Tensforflow and Keras
-  tagline: "Full Stack Developer"
-  title: "Career Profile"
-  twitter: "@IamSoo"
-  website: IamSoo.github.io
+  
