@@ -70,8 +70,8 @@ education:
 
 experiences:
     - role: Consulting Specialist
-      time: Sept-2019 - Present
-      company: HSBC
+      time: 2016 - Present
+      company: HSBC, Guangzhou
       details: |
         Write highly efficient code for micro services and batch process application using Java, JavaSpark, Spring Boot,Apache Spark, Apache Beam using TDD approach.
         Run web services on Cloud Foundry and batch processing applications on Spark and Beam.
@@ -79,12 +79,13 @@ experiences:
         Follow Agile practices and work in DevOps model.
         Implemented a dynamic cloud based batch processing application using Spring Batch, Spring Boot, Spring
         Cloud Task running on Pivotal Cloud Foundry.
+
           - Bullet point
           - Bullet point
 
     - role: Principal Consultant
       time: 2008 - 2016
-      company: Oracle, India and China
+      company: Oracle, Mumbai and Shanghai
       details: |
         ORACLE FLEXCUBE RETAIL is an integrated, interoperable, and modular retail banking solution run by many
         banks across the globe. I worked on-site for 5 years.
@@ -96,33 +97,18 @@ experiences:
 
           - Bullet point
           - Bullet point
-
-
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java & Oracle
+        level: 90%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: BigData Tools(Spark and Beam)
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Others
+        level: 70-80%
