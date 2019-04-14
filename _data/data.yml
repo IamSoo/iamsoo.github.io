@@ -27,20 +27,15 @@ sidebar:
     languages:
       - idiom: Hindi
         level: Native
-
       - idiom: Oriya
         level: Native
-
       - idiom: English
         level: Professional
-
       - idiom: Chinese
         level: Beginer
-      
     interests:
       - item: Driving
         link:
-
       - item: Cooking
         link:
 
@@ -52,8 +47,8 @@ career-profile:
 	 Love to code and break things. Work with cloud and big data tools.
 	 Follow Agile and works in Dev Ops model with CI/CD and TDD development.
 	Knowledge of :
- 	Cloud Technologies : Amazon AWS, Google Cloud, Cloud Foundry
- 	BigData Technology : Hadoop, Spark, Apache Beam
+ 	Cloud Technologies: Amazon AWS, Google Cloud, Cloud Foundry
+ 	BigData Technology: Hadoop, Spark, Apache Beam
  	 Career ProfileMachine Learning using Tensforflow and Keras
 
 education:
