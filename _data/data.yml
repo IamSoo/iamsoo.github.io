@@ -6,7 +6,6 @@ sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
     name: Soonam Kalyan Panda
     tagline: Full Stack Developer
     #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
@@ -17,13 +16,7 @@ sidebar:
     website: IamSoo.github.io #do not add http://
     linkedin: https://www.linkedin.com/in/soonam-kalyan-panda/
     github: IamSoo
-    #gitlab:
-    #bitbucket:
     twitter: '@IamSoo'
-    #stack-overflow: # Number/Username, e.g. 123456/alandoe
-    #codewars:
-    #goodreads: # Number-Username, e.g. 123456-alandoe
-
     languages:
       - idiom: Hindi
         level: Native
@@ -38,8 +31,7 @@ sidebar:
         link:
       - item: Cooking
         link:
-
-career-profile:
+    career-profile:
     title: Career Profile
     summary:
      A dynamic professional with 10 years of working experience in Software Development and implementation.
@@ -50,13 +42,11 @@ career-profile:
  	Cloud Technologies: Amazon AWS, Google Cloud, Cloud Foundry
  	BigData Technology: Hadoop, Spark, Apache Beam
  	 Career ProfileMachine Learning using Tensforflow and Keras
-
-education:
-    - degree: MSc in BigData
-      university: Hong Kong University of Science & Technology
-      time: 2018 - 2020
-
-    - degree: B.Tech in Electronics and Telecommunication
-      university: BPUT
-      time: 2004 - 2008
+ 	education:
+ 	  - degree: MSc in BigData
+        university: Hong Kong University of Science & Technology
+        time: 2018 - 2020
+      - degree: B.Tech in Electronics and Telecommunication
+        university: BPUT
+        time: 2004 - 2008
 
