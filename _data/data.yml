@@ -47,14 +47,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-	A dynamic professional with 10 years of working experience in Software Development and implementation.
-	Functional Knowledge Retail Banking and Investment Banking(Finance). 
-	Love to code and break things. Work with cloud and big data tools.
-	Follow Agile and works in Dev Ops model with CI/CD and TDD development.
+     A dynamic professional with 10 years of working experience in Software Development and implementation.
+	 Functional Knowledge Retail Banking and Investment Banking(Finance).
+	 Love to code and break things. Work with cloud and big data tools.
+	 Follow Agile and works in Dev Ops model with CI/CD and TDD development.
 	Knowledge of :
  	Cloud Technologies : Amazon AWS, Google Cloud, Cloud Foundry
  	BigData Technology : Hadoop, Spark, Apache Beam
- 	Machine Learning using Tensforflow and Keras
+ 	 Machine Learning using Tensforflow and Keras
 
 education:
     - degree: MSc in BigData
