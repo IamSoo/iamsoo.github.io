@@ -1,52 +1,51 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
+---
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-
-    name: Soonam Kalyan Panda
-    tagline: Full Stack Developer
-    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
-    email: princesoonam@yahoo.co.in
-    phone: +8615014043601
-    website: IamSoo.github.io #do not add http://
-    linkedin: https://www.linkedin.com/in/soonam-kalyan-panda/
-    github: IamSoo
-    twitter: '@IamSoo'
-    languages:
-      - idiom: Hindi
-        level: Native
-      - idiom: Oriya
-        level: Native
-      - idiom: English
-        level: Professional
-      - idiom: Chinese
-        level: Beginer
-    interests:
-      - item: Driving
-        link:
-      - item: Cooking
-        link:
-    career-profile:
-    title: Career Profile
-    summary:
-     A dynamic professional with 10 years of working experience in Software Development and implementation.
-	 Functional Knowledge Retail Banking and Investment Banking(Finance).
-	 Love to code and break things. Work with cloud and big data tools.
-	 Follow Agile and works in Dev Ops model with CI/CD and TDD development.
-	Knowledge of :
- 	Cloud Technologies: Amazon AWS, Google Cloud, Cloud Foundry
- 	BigData Technology: Hadoop, Spark, Apache Beam
- 	 Career ProfileMachine Learning using Tensforflow and Keras
- 	education:
- 	  - degree: MSc in BigData
-        university: Hong Kong University of Science & Technology
-        time: 2018 - 2020
-      - degree: B.Tech in Electronics and Telecommunication
-        university: BPUT
-        time: 2004 - 2008
-
+  about: true
+  career-profile: ~
+  education:
+    -
+      degree: "MSc in BigData"
+      time: "2018 - 2020"
+      university: "Hong Kong University of Science & Technology"
+    -
+      degree: "B.Tech in Electronics and Telecommunication"
+      time: "2004 - 2008"
+      university: BPUT
+  email: princesoonam@yahoo.co.in
+  github: IamSoo
+  interests:
+    -
+      item: Driving
+      link: ~
+    -
+      item: Cooking
+      link: ~
+  languages:
+    -
+      idiom: Hindi
+      level: Native
+    -
+      idiom: Oriya
+      level: Native
+    -
+      idiom: English
+      level: Professional
+    -
+      idiom: Chinese
+      level: Beginer
+  linkedin: "https://www.linkedin.com/in/soonam-kalyan-panda/"
+  name: "Soonam Kalyan Panda"
+  phone: 8615014043601
+  summary: |
+      A dynamic professional with 10 years of working experience in Software Development and implementation.
+      Functional Knowledge Retail Banking and Investment Banking(Finance).
+      Love to code and break things. Work with cloud and big data tools.
+      Follow Agile and works in Dev Ops model with CI/CD and TDD development.
+      Knowledge of :
+      Cloud Technologies: Amazon AWS, Google Cloud, Cloud Foundry
+      BigData Technology: Hadoop, Spark, Apache Beam
+      Career ProfileMachine Learning using Tensforflow and Keras
+  tagline: "Full Stack Developer"
+  title: "Career Profile"
+  twitter: "@IamSoo"
+  website: IamSoo.github.io
