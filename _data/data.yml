@@ -9,11 +9,10 @@ sidebar:
     # Profile information
     name: Soonam Kalyan Panda
     tagline: Full Stack Developer
-    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: princesoonam@yahoo.co.in
-    phone: +8615014043601
     website: IamSoo.github.io #do not add http://
     linkedin: https://www.linkedin.com/in/soonam-kalyan-panda/
     github: IamSoo
@@ -44,20 +43,16 @@ sidebar:
       - item: Scuba
         link:
 
-      - item: Cooking
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
-      A dynamic professional with 10 years of working experience in Software Development and implementation.
-      Functional Knowledge Retail Banking and Investment Banking(Finance).
-      Love to code and break things. Work with cloud and big data tools.
-      Follow Agile and works in Dev Ops model with CI/CD and TDD development.
+      A dynamic professional over 10 years of working experience in Software Development and implementation.
+      Strong hold of Functional Knowledge of Retail Banking , Investment Banking(Finance), DMA and Agency Trading.
+      Love to code and break things. Swftly switch to any cloud and big data tools.
+      Follow TDD, work in Agile and Dev Ops model.
       Knowledge of :
-      Cloud Technologies: Amazon AWS, Google Cloud, Cloud Foundry
-      BigData Technology: Hadoop, Spark, Apache Beam
-      Career ProfileMachine Learning using Tensforflow and Keras
+      Cloud & BigData Technology: Amazon AWS, Google Cloud, Spark, Flink &  Apache Beam
+      
 
 education:
     - degree: "MSc in BigData"
@@ -73,15 +68,13 @@ experiences:
       time: 2016 - Present
       company: HSBC, Guangzhou
       details: |
-        Write highly efficient code for micro services and batch process application using Java, JavaSpark, Spring Boot,Apache Spark, Apache Beam using TDD approach.
-        Run web services on Cloud Foundry and batch processing applications on Spark and Beam.
+        Design and develop micro services and batch process application using Java, JavaSpark, Spring Boot,Apache Spark, Apache Beam using TDD approach.
+        Run micro services on Pivotal Cloud Foundry and batch processing applications on Spark developed using Beam.
         Configure and use CI/CD pipeline(Jenkins , Ansible) for deployment.
         Follow Agile practices and work in DevOps model.
         Implemented a dynamic cloud based batch processing application using Spring Batch, Spring Boot, Spring
         Cloud Task running on Pivotal Cloud Foundry.
 
-          - Bullet point
-          - Bullet point
 
     - role: Principal Consultant
       time: 2008 - 2016
@@ -95,8 +88,6 @@ experiences:
         Fixed technical blocker issues and managed release to production, supported UAT,SIT and GO Lives.
         Looked into performance tuning of Application and Database for OLTP and Batch processing
 
-          - Bullet point
-          - Bullet point
 skills:
     title: Skills &amp; Proficiency
 
