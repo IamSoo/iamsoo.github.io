@@ -46,6 +46,7 @@ career-profile:
       Knowledge of :
       Cloud & BigData Technology: Amazon AWS, Google Cloud, Spark, Flink &  Apache Beam
       
+
 education:
     - degree: MSc in BigData
       time: 2018 - 2020
@@ -66,6 +67,7 @@ experiences:
         Follow Agile practices and work in DevOps model.
         Implemented a dynamic cloud based batch processing application using Spring Batch, Spring Boot, Spring
         Cloud Task running on Pivotal Cloud Foundry.
+
 
     - role: Principal Consultant
       time: 2008 - 2016
