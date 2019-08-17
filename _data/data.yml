@@ -36,13 +36,6 @@ sidebar:
       - idiom: Chinese
         level: Beginer
 
-    interests:
-      - item: Driving
-        link:
-
-      - item: Scuba
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -55,12 +48,12 @@ career-profile:
       
 
 education:
-    - degree: "MSc in BigData"
-      time: "2018 - 2020"
-      university: "Hong Kong University of Science & Technology"
+    - degree: MSc in BigData
+      time: 2018 - 2020
+      university: Hong Kong University of Science & Technology
 
-    - degree: "B.Tech in Electronics and Telecommunication"
-      time: "2004 - 2008"
+    - degree: B.Tech in Electronics and Telecommunication
+      time: 2004 - 2008
       university: BPUT
 
 experiences:
@@ -98,8 +91,8 @@ skills:
       - name: Javascript & jQuery
         level: 80%
 
-      - name: BigData Tools(Spark and Beam)
-        level: 80%
+      - name: BigData Tools(Spark, Flink & Beam)
+        level: 60%
 
       - name: Others
         level: 70-80%
