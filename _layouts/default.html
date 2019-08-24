@@ -1,24 +1,25 @@
 ---
 layout: compress
 ---
-<!DOCTYPE html>
+<html>
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
-{% include head.html %}
-
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
 <body>
-  <div class="wrapper">
+<nav class="main-nav">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+  </ul>
+</nav>
+  <!--div class="wrapper">
     {% include sidebar.html %}
 
     <div class="main-wrapper">
         {{ content }}
     </div>
-  </div>
+  </div-->
 
-  {% include footer.html %}
-
-{% include scripts.html %}
 </body>
 
 </html>
