@@ -3,12 +3,12 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Soonam Kalyan Panda
-    tagline: Full Stack , Cloud & Big data Developer
+    tagline: Full Stack, Cloud & Big data Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -40,9 +40,9 @@ career-profile:
     title: Career Profile
     summary: |
       A dynamic professional over 10 years of working experience in Software Development and implementation.
-      Strong hold of Functional Knowledge of Retail Banking , Investment Banking(Finance), DMA and Agency Trading.
-      Love to code and break things. Swftly switch to any cloud and big data tools.
-      Follow TDD, work in Agile and Dev Ops model.
+      Possess strong hold of Functional Knowledge of Retail Banking(CASA,TD,LOAN) , Investment Banking(Finance Regulatory Reporting), DMA and Agency Trading.
+      Loves to code and break things. Can swftly switch to any cloud and big data tools like AWS,GCP,Spark,Beam,Flink etc.
+      Follows TDD, work in Agile and Dev Ops model.
       Knowledge of :
       Cloud & BigData Technology: Amazon AWS, Google Cloud, Spark, Flink &  Apache Beam
       
@@ -89,7 +89,7 @@ skills:
         level: 90%
 
       - name: Javascript & jQuery
-        level: 80%
+        level: 70%
 
       - name: BigData Tools(Spark, Flink & Beam)
         level: 60%
