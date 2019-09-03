@@ -3,7 +3,7 @@ layout: post
 title: Update Python version in Mac
 date: 2019-09-01 14:00:20 +0300
 description: How to update python version in mac
-img: pylogo.png # Add image post (optional)
+#img: pylogo.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 ---
 
