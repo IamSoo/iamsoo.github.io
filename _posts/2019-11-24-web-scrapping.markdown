@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web scrapping with python & beautifulsoup"
+title: Web scrapping with python & beautifulsoup
 date: 2019-11-24 12:44:05 -0500
 description: Web Scrapping with Python beautifulsoup
 author: Soo
@@ -21,9 +21,7 @@ The application is also wrapped in container and can be used as a microservice. 
 and return that many no of posts order by rank.
 
 The github link is here for reference of code : https://github.com/IamSoo/hackernews-scraper
+ 
+Thank you
 
-##### Enjoy
-
-
-=== Thank you ===
-
+<i>Soonam</i>

@@ -1,10 +1,17 @@
 ---
-layout: posts
+layout: post
 title:  "Elastic Stack Explained"
 date:   2019-08-24 12:44:05 -0500
-categories: ELK Stack Explained
+description: ELK Stack Explained
 author: Soo
 #img: elk-logo.png 
 ---
 
-ELK Stack Explained(Draft)
+ELK is a stack of 3 projects/application and mostly used together for ingestion + in-memory storage + display.
+Each component can be run separately and can be integrated with other components as well. The stack is named from 
+Elastic Search, Logstash and Kibana. Though the name looks cool but sometimes I think why they did not name the stack 
+as per the usage of the application. Because during implementation Elastic search comes between Logstash and Kibana.
+
+Anyways its non of our business to care about the ELK stack.
+Let's discuss more about ELK and do hands on to see how it works.
+
