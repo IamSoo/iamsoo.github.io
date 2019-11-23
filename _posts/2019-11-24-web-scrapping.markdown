@@ -1,8 +1,8 @@
 ---
-layout: posts
-title:  "Web scrapping with python & beautifulsoup"
-date:   2019-11-24 12:44:05 -0500
-categories: Web Scrapping with Python beautifulsoup
+layout: post
+title: Web scrapping with python & beautifulsoup"
+date: 2019-11-24 12:44:05 -0500
+description: Web Scrapping with Python beautifulsoup
 author: Soo
 #img: elk-logo.png 
 ---
